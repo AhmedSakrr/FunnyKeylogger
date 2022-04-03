@@ -1,0 +1,4 @@
+
+Have you tried -NonInteractive mode while invoking power
+
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -WindowStyle Hidden -NonInteractive C:\scripts\myscript.ps1
