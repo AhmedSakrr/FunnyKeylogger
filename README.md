@@ -29,6 +29,6 @@ This code born from a few minutes of my free times and will be improved in the f
 to get FolderPaths run this command in Powershell in administrator:-
 
 >> [System.Enum]::GetNames([System.Environment+SpecialFolder]) <<
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 >> create shortcut and put windows.ps1 file in the same folder in the same path <<
 >> C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -WindowStyle Hidden -NonInteractive -noexit -ExecutionPolicy Bypass -File c:\test\windows.ps1 <<
