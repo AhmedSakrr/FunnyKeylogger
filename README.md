@@ -24,3 +24,8 @@ Here is three steps to run FunnyKeylogger :
 	- Run the script by right click on it and select "Run with PowerShell" or command line
 	
 This code born from a few minutes of my free times and will be improved in the future.
+
+
+to get FolderPaths run this command in Powershell in administrator:-
+
+[System.Enum]::GetNames([System.Environment+SpecialFolder])
