@@ -28,4 +28,4 @@ This code born from a few minutes of my free times and will be improved in the f
 
 to get FolderPaths run this command in Powershell in administrator:-
 
->> [System.Enum]::GetNames([System.Environment+SpecialFolder])
+>> [System.Enum]::GetNames([System.Environment+SpecialFolder]) <<
